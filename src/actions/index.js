@@ -5,6 +5,7 @@ export const addToDo = (data) =>{
         type: ADD_TODO,
         payload: {
             title : data.title,
+            deadline : data.deadline,
         }
     }
 }

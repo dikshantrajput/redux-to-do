@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+
+:root{
+    --gray : rgba(201, 199, 199, 0.932);
+    --lightGray:rgb(233, 229, 229);
+    --white : #fff;
+}
+
+body{
+    background: var(--lightGray);
+}
+
+.body__wrapper{
+    padding:20px;
+}
+
+.body__wrapper h1{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
