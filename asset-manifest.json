@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/redux-to-do/static/css/main.dda68998.chunk.css",
+    "main.js": "/redux-to-do/static/js/main.52cb43c2.chunk.js",
+    "main.js.map": "/redux-to-do/static/js/main.52cb43c2.chunk.js.map",
+    "runtime-main.js": "/redux-to-do/static/js/runtime-main.26a3f02d.js",
+    "runtime-main.js.map": "/redux-to-do/static/js/runtime-main.26a3f02d.js.map",
+    "static/js/2.e3bedb8f.chunk.js": "/redux-to-do/static/js/2.e3bedb8f.chunk.js",
+    "static/js/2.e3bedb8f.chunk.js.map": "/redux-to-do/static/js/2.e3bedb8f.chunk.js.map",
+    "index.html": "/redux-to-do/index.html",
+    "static/css/main.dda68998.chunk.css.map": "/redux-to-do/static/css/main.dda68998.chunk.css.map",
+    "static/js/2.e3bedb8f.chunk.js.LICENSE.txt": "/redux-to-do/static/js/2.e3bedb8f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26a3f02d.js",
+    "static/js/2.e3bedb8f.chunk.js",
+    "static/css/main.dda68998.chunk.css",
+    "static/js/main.52cb43c2.chunk.js"
+  ]
+}
